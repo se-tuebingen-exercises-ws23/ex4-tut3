@@ -2,7 +2,7 @@
 
 ### Hello, world!
 
-1. Clone this GitHub repository: `se-tuebingen-exercises-ws23/ex4-tut3`
+1. Clone this GitHub repository: `git@github.com:se-tuebingen-exercises-ws23/ex4-tut3.git`
 2. Open it in the IntelliJ IDE.
 3. Run the project.
     - In IntelliJ: use the green run button ▶️ on the top right
